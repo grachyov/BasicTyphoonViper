@@ -1,0 +1,28 @@
+PODS:
+  - Kiwi (2.4.0)
+  - Mantle (2.0.5):
+    - Mantle/extobjc (= 2.0.5)
+  - Mantle/extobjc (2.0.5)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - Typhoon (3.3.2):
+    - Typhoon/no-arc (= 3.3.2)
+  - Typhoon/no-arc (3.3.2)
+  - UIView-Autolayout (0.2.1)
+
+DEPENDENCIES:
+  - Kiwi
+  - Mantle
+  - SDWebImage
+  - Typhoon
+  - UIView-Autolayout
+
+SPEC CHECKSUMS:
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  Mantle: 1912395033f601de5adc8ee91e48f46e4c7051ad
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  Typhoon: d0f4b40120b7011ac41748c3ca141cb12aac3737
+  UIView-Autolayout: 042510c499403f58620998278ddd60fa7b6cd4a7
+
+COCOAPODS: 0.38.2
